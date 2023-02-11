@@ -12,7 +12,7 @@ import java.io.FileWriter;
 import java.util.Random;
 import java.util.concurrent.Callable;
 
-class ClientThread2 implements Callable {
+class   ClientThread2 implements Callable {
     int failure;
     SwipeApi swipeApi = new SwipeApi();
     int count;

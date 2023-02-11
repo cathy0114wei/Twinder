@@ -65,7 +65,9 @@ public class Client {
         System.out.println("Total success requests number: " + (Constants.TOTALREQUEST - failure) + '\n'
         + "Total failures number: " + failure + '\n'
         + "Wall time (ms): " + wallTime + '\n'
-        + "throughput (/s): " + throughput);
+        + "throughput (/s): " + throughput + '\n'
+        + "Threads number: " + Constants.NUMTHREAD + '\n'
+        + "Expect Throuput: " + (Constants.NUMTHREAD / 0.04));
 
 //        double medianifEven = (descriptiveStatistics.getElement(Constants.TOTALREQUEST / 2 - 1) +
 //                descriptiveStatistics.getElement(Constants.TOTALREQUEST / 2 - 1)) / 2;

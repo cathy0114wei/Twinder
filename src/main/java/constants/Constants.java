@@ -1,7 +1,7 @@
 package constants;
 
 public class Constants {
-    public static int NUMTHREAD = 200;
+    public static int NUMTHREAD = 130;
     public static int TOTALREQUEST = 500000;
     public static String basePath = "http://18.236.139.39:8080/Twinder_war";
     public static String filePath = "/Users/cathywei/IdeaProjects/Twinder/out/hw1file/output.csv";

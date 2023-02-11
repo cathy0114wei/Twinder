@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Twinder:war" />
+      <artifact name="Twinder:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,16 +10,135 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1777dabd-d3ca-4c43-8d28-566038443b6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Twinder_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Twinder_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/constants/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/server/Swipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Twinder_war/Twinder_war.war" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Twinder_war/Twinder_war.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Twinder_war_exploded/WEB-INF/classes/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Twinder_war_exploded/WEB-INF/classes/client/MyRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Twinder_war_exploded/WEB-INF/classes/constants/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Twinder_war_exploded/WEB-INF/classes/constants/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/graph/task4.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/out/graph/task4.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process0.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process0.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process10.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process100.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process100.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process101.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process101.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process102.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process102.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process103.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process103.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process104.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process104.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process105.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process105.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process106.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process106.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process107.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process107.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process108.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process108.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process109.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process109.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process11.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process110.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process110.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process111.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process111.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process112.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process112.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process113.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process113.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process114.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process114.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process115.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process115.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process116.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process116.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process117.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process117.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process118.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process118.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process119.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process119.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process12.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process12.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process13.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process14.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process14.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process15.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process15.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process16.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process16.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process17.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process18.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process20.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process20.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process21.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process21.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process22.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process22.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process23.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process23.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process24.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process24.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process25.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process25.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process26.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process26.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process27.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process27.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process28.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process28.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process29.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process29.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process30.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process30.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process31.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process31.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process32.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process32.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process33.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process33.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process34.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process34.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process35.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process35.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process36.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process36.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process37.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process37.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process38.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process38.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process39.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process39.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process4.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process4.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process40.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process40.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process41.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process41.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process42.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process42.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process43.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process43.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process44.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process44.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process45.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process46.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process48.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process48.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process49.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process49.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process50.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process50.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process51.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process51.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process52.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process52.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process53.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process53.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process54.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process54.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process55.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process55.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process56.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process56.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process57.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process57.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process58.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process58.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process59.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process59.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process60.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process60.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process61.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process61.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process62.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process62.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process63.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process63.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process64.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process65.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process65.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process66.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process66.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process67.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process67.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process68.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process68.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process69.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process69.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process70.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process70.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process71.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process71.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process72.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process72.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process73.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process73.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process74.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process74.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process75.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process75.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process76.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process76.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process77.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process77.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process78.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process78.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process79.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process79.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process80.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process80.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process81.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process81.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process82.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process82.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process83.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process83.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process84.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process84.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process85.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process85.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process86.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process86.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process87.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process87.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process88.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process88.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process89.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process89.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process90.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process90.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process92.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process92.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process93.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process93.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process94.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process94.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process95.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process95.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process96.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process96.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process97.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process97.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process98.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process98.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/hw1file/process99.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/hw1file/process99.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/client_part1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client_part1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/client_part2/ClientThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client_part2/ClientThread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constants/Constants.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +153,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="cathy0114wei" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -61,28 +185,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web/WEB-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client2">
+  <component name="RunManager" selected="Application.client_part1.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client.Client" />
       <module name="Twinder" />
@@ -220,10 +345,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client2" />
         <item itemvalue="Application.client_part1.Client" />
-        <item itemvalue="Application.Client" />
         <item itemvalue="Application.SwipeApiExample" />
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -235,11 +360,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675559570722</updated>
-      <workItem from="1675559571871" duration="64560000" />
+      <workItem from="1675559571871" duration="66284000" />
+      <workItem from="1676083993355" duration="1286000" />
+      <workItem from="1676086073731" duration="1194000" />
+      <workItem from="1676097647472" duration="2614000" />
     </task>
+    <task id="LOCAL-00001" summary="finish">
+      <created>1675818779392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675818779392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
 </project>
